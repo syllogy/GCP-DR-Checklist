@@ -14,3 +14,12 @@ Disaster Recovery Plan - Checklist
 ### Checklist 
 
 [The checklist](checklist.csv)
+
+
+
+### Google Cloud Official Refernce
+
+- [DR Planning Guide](https://cloud.google.com/solutions/dr-scenarios-planning-guide)
+- [DR Building Blocks](https://cloud.google.com/solutions/dr-scenarios-building-blocks)
+- [DR for Data](https://cloud.google.com/solutions/dr-scenarios-for-data)
+- [DR for Applications](https://cloud.google.com/solutions/dr-scenarios-for-applications)
