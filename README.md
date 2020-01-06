@@ -13,7 +13,7 @@ Disaster Recovery Plan - Checklist
 
 ### Checklist 
 
-[The checklist](checklist.csv)
+[The checklist](Checklist.csv)
 
 
 
